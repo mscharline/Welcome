@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌟
 
-Hi there! 👋 I'm **Charline Castelltort**, an Onboarding Specialist passionate about simplifying processes and making clients feel supported throughout their journey. At [Stanford Knights and Partner](https://example.com), I specialize in assisting individuals worldwide with life-changing transitions like acquiring citizenship, permanent residency, and documentation.
+Hi there! 👋 I'm **Charline Castelltort**, an Onboarding Specialist passionate about simplifying processes and making clients feel supported throughout their journey. At [Stanford Knights and Partner]([https://example.com](https://stanfordknight.com/)), I specialize in assisting individuals worldwide with life-changing transitions like acquiring citizenship, permanent residency, and documentation.
 
 ## About Me
 - 🌍 **Location:** Philippines (Working remotely 🌏)  
@@ -14,8 +14,8 @@ I strive to create seamless and efficient experiences for our clients. Every det
 ---
 
 ### Find Me Online 🌐
-- 💼 [LinkedIn](https://linkedin.com/in/charline-castelltort)  
-- 📫 [Email](mailto:charline@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/charlinecastelltort)  
+- 📫 [Email](mailto:charlinecastelltort@gmail.com)
 
 ---
 
